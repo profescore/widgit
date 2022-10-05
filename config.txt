@@ -1,3 +1,4 @@
 Some configurations that where checked in after init
 need to ull this file down
 adding some additional configuration
+found a couple of more config values that are needed
